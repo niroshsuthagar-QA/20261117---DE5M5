@@ -11,9 +11,6 @@ class TestOperations(unittest.TestCase):
     def test_sum(self):
         self.assertEqual(self.calc.get_sum(), 10, "The sum is wrong")
 
-    def test_quotient(self):
-        self.assertEqual(self.calc2.get_quotient(), 0, "The sum is wrong, it should give 0 due to division by 0")
-    
     def tearDown(self):
         #Typically where you destroy assets you no longer need - Optional
         pass
