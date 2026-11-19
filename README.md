@@ -14,3 +14,11 @@ Write unit tests for the date duration function and anything else you may have.
 You can use my solution instead of yours if you want.
 
 P.S Best practise is to cover at least 80-90% of functions. 
+
+# Day 4:
+
+Task:
+Build and run a docker container that uses our calculator and outputs 247/12.
+
+Stretch: 
+Try to persist the answers in a docker volume.
