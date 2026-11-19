@@ -37,3 +37,7 @@ If done, let me know in the chat.
 4. Run the container with the image with the vol: ```docker run -v myvolname:/data mycontainername```
 
 P.S You python app should write into a /data folder (this is what binds to our vol)
+
+# TESTING CI PIPELINE.
+
+Nirosh was here.
